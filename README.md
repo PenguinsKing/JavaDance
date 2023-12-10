@@ -19,17 +19,14 @@
 
 
 
-##  初衷
 
-  做up主的初衷网上有不少Java博客知识比较零散， 也有宽而广的文章， 看下来又觉得不够精简， 所以希望用自己的一些经验可以帮助到粉丝朋友们高效地去学习， 另外就是我自己也可以对知识进行总结复习，
-
-> 这里推荐下我自己的学习步骤
+> **创作不易**，你的关注分享就是博主更新的最大动力， 每周持续更新
 >
-> 1. 先熟悉整体框架， 不要一上来陷入细节， 熟悉大体框架后再按章节去理解、学习
-> 2. 试着用自己的语言，比如写博客， 让别人也能弄懂（费曼学习法）
-> 3. 知识的记忆是有遗忘曲线规律的，所以要合理安排回顾所学知识
-
-
+> 微信搜索【 **企鹅君】**关注还能领取学习资料喔，第一时间阅读(比博客早两到三篇)
+>
+> **求关注❤️ 求点赞❤️  求分享❤️   对博主真的非常重要**
+>
+> 企鹅君原创｜GitHub开源项目[github.com/JavaDance](https://github.com/PenguinsKing/JavaDance)  **欢迎Star和完善**
 
 
 
@@ -52,26 +49,31 @@
   - [MySQL基础框架](https://mp.weixin.qq.com/s/z1-XK80IOHjACxF1MT29Aw)
   - [MySQL索引详解](https://mp.weixin.qq.com/s/Pd-4gtvUA4Efu_EiWvnrMw)
   - [MySQL事务详解](https://mp.weixin.qq.com/s/II7lKuWKK17ErhmImqml9g)
-  
+
 - Redis
-  
+
   - [Redis基础篇]()
-  
+
   - Redis高可用篇
-  
+
     
 
 - 程序人生
-  
-  -  [我的故事](https://mp.weixin.qq.com/s/1PJp41BODC-_uYg7NKGMbg)
-  
-  
-  
-  
-  
-  <a name="微信"></a>  <a name="公众号"></a>
 
- ![](https://javadance.oss-cn-beijing.aliyuncs.com/%E5%BA%95%E9%83%A8%E5%85%B3%E6%B3%A8.jpeg)
+  -  [我的故事](https://mp.weixin.qq.com/s/1PJp41BODC-_uYg7NKGMbg)
+
+  
+
+
+##  初衷
+
+  做up主的初衷网上有不少Java博客知识比较零散， 也有宽而广的文章， 看下来又觉得不够精简， 所以希望用自己的一些经验可以帮助到粉丝朋友们高效地去学习， 另外就是我自己也可以对知识进行总结复习，
+
+> 这里推荐下我自己的学习步骤
+>
+> 1. 先熟悉整体框架， 不要一上来陷入细节， 熟悉大体框架后再按章节去理解、学习
+> 2. 试着用自己的语言，比如写博客， 让别人也能弄懂（费曼学习法）
+> 3. 知识的记忆是有遗忘曲线规律的，所以要合理安排回顾所学知识
 
 
 
@@ -81,4 +83,10 @@
 长路漫漫，道阻且长
 丢掉幻想，准备斗争
 **过尽千帆皆不是，轻舟已过万重山**
+
+
+
+<a name="微信"></a>  <a name="公众号"></a>
+
+ ![](https://javadance.oss-cn-beijing.aliyuncs.com/%E5%BA%95%E9%83%A8%E5%85%B3%E6%B3%A8.jpeg)
 
