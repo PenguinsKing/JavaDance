@@ -59,8 +59,16 @@
   
   - Redis高可用篇
   
-  
+    
 
+- 程序人生
+  
+  -  [我的故事](https://mp.weixin.qq.com/s/1PJp41BODC-_uYg7NKGMbg)
+  
+  
+  
+  
+  
   <a name="微信"></a>  <a name="公众号"></a>
 
  ![](https://javadance.oss-cn-beijing.aliyuncs.com/%E5%BA%95%E9%83%A8%E5%85%B3%E6%B3%A8.jpeg)
