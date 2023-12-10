@@ -34,33 +34,29 @@
 
 **PS : 没链接的会陆续更新（可关注公众号耐心心等待哟)**
 
+【大厂秘籍系列】
+
 - 后端学习路线
-
 - Java基础
-
 - 集合框架
-
 - JVM
-
 - 并发多线程
-
 - 数据库
 
   - [MySQL基础框架](https://mp.weixin.qq.com/s/z1-XK80IOHjACxF1MT29Aw)
   - [MySQL索引详解](https://mp.weixin.qq.com/s/Pd-4gtvUA4Efu_EiWvnrMw)
   - [MySQL事务详解](https://mp.weixin.qq.com/s/II7lKuWKK17ErhmImqml9g)
-
 - Redis
 
   - [Redis基础篇]()
 
   - Redis高可用篇
 
-    
 
-- 程序人生
 
-  -  [我的故事](https://mp.weixin.qq.com/s/1PJp41BODC-_uYg7NKGMbg)
+【程序人生系列】
+
+-  [我的故事](https://mp.weixin.qq.com/s/1PJp41BODC-_uYg7NKGMbg)
 
   
 
