@@ -38,23 +38,23 @@
 
 【大厂秘籍系列】
 
-- 后端学习路线
-- Java基础
-- 集合框架
-- JVM
-- 并发多线程
 - 数据库
 
   - [MySQL基础框架](https://mp.weixin.qq.com/s/z1-XK80IOHjACxF1MT29Aw)
   - [MySQL索引详解](https://mp.weixin.qq.com/s/Pd-4gtvUA4Efu_EiWvnrMw)
   - [MySQL事务详解](https://mp.weixin.qq.com/s/II7lKuWKK17ErhmImqml9g)
+  
 - Redis
 
-  - [Redis基础篇]()
+  - [Redis基础篇](https://mp.weixin.qq.com/s?__biz=MzU2NzY5ODE4OA==&mid=2247483779&idx=1&sn=ddd4871e93d40d0abeeee715d6561bf4&chksm=fc9877e0cbeffef6661d242edd0ce938b6e912ef79c67702f67af6126fc87d8ad5de197a74a0#rd)
+  - [Redis持久化](https://mp.weixin.qq.com/s?__biz=MzU2NzY5ODE4OA==&mid=2247483793&idx=1&sn=16599a49457037b39b1d211fc587fe8e&chksm=fc9877f2cbeffee4954964a77954dd16cd2c1b66383ae8ab9ca236337f2a3bb8bcc60f46d2e6#rd)
 
-  - Redis高可用篇
+- 分布式
+	- [分布式理论CAP、BASE](https://mp.weixin.qq.com/s?__biz=MzU2NzY5ODE4OA==&mid=2247483802&idx=1&sn=3e0a7b9ccc851b0ecfe5405f05a7730e&chksm=fc9877f9cbeffeefb5c3516ca05130f091604f1171547b4eb3abcae7473cf55c8c9978940a10&token=1497722240&lang=zh_CN#rd)
+	
+- Java
 
-
+  
 
 <br>
 
